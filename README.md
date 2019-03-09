@@ -115,5 +115,5 @@ link without url
 
 link img
 
-![dolphin!](/dolphin.png)
-<img width="200" height="200">![dolphin!](/dolphin.png)</img>
+![dolphin!](/img/dolphin.png)
+![dolphin!](/img/dolphin.png){: width="100" height="100"}
