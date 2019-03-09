@@ -117,14 +117,9 @@ link img
 
 ![dolphin!](/img/dolphin.png) basic img
 
-<center><img src="/img/dolphin.png" width="20%">20%img</center>
+<img src="/img/dolphin.png" width="20%">20% img
 
-<center><img src="/img/dolphin.png" width="100" height="100">100px img</center>
-
-
-<div style="text-align:center"><img src="/img/dolphin.png" width="100" height="100"></div>
-
-
+<img src="/img/dolphin.png" width="100" height="100">100px img
 
 .
 
