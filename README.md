@@ -8,6 +8,12 @@ repositary - for privous works & practice
 
 .
 
+.
+
+.
+
+.
+
 → how to use markdown?
 
 This is HEADER
@@ -27,7 +33,9 @@ This is small-HEADER
 >>> This is a blockqute3
 
 This is **important**
+
 This is ***tilt***
+
 This is ~deleted~
 
 .
@@ -59,7 +67,9 @@ This is ~deleted~
 .
 
 → how about links?
+
 link with url
 <https://help.github.com/categories/writing-on-github/>
+
 link without url
 [바로가기](https://help.github.com/categories/writing-on-github/)
