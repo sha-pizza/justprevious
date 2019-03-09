@@ -1,4 +1,4 @@
-# justprivious
+# justprivious !
 
 repositary - for privous works & practice
 
@@ -44,6 +44,21 @@ This is ~deleted~
 
 .
 
+→ how to numbering
+1. one
+2. two
+3. three
++ one
+  + two
+    + three
+
+.
+
+.
+
+.
+
+
 → This is normal paragraph
 <pre><code>THIS IS CODE PARAGRAPH !!</code></pre>
 
@@ -53,7 +68,7 @@ This is ~deleted~
 
 .
 
-→ some horizon lines below ↓
+→ some horizontal lines below ↓
 * * *
 ***
 *****
