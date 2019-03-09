@@ -20,6 +20,10 @@ This is small-HEADER
 >> This is a blockqute2
 >>> This is a blockqute3
 
+This is **important**
+This is ***tilt***
+This is ~deleted~
+
 
 
 
