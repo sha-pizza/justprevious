@@ -116,7 +116,8 @@ link without url
 link img
 
 ![dolphin!](/img/dolphin.png)
-<img src="/img/dolphin.png" width="20%">
+<center><img src="/img/dolphin.png" width="20%"></img></center>
+<center><img src="/img/dolphin.png" width="100px" height="100px"></img></center>
 
 
 → make table! Table generator
