@@ -115,4 +115,4 @@ link without url
 
 link img
 
-![dolphin!](/justprivious/basic.jpg)
+![dolphin!](/sha-pizza/justprivious/blob/master/basic.jpg)
