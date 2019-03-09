@@ -116,4 +116,8 @@ link without url
 link img
 
 ![dolphin!](/img/dolphin.png)
-![dolphin!](/img/dolphin.png){: width="100" height="100"}
+<img src="/img/dolphin.png" width="20%">
+
+
+→ make table! Table generator
+https://www.tablesgenerator.com/markdown_tables
