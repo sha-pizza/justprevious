@@ -114,11 +114,17 @@ link without url
 
 link img
 
-![dolphin!](/img/dolphin.png) basic img
+![dolphin!](/img/dolphin.png) 
 
-<img src="/img/dolphin.png" width="20%">20% img
+basic img
 
-<img src="/img/dolphin.png" width="100" height="100">100px img
+<img src="/img/dolphin.png" width="20%">
+
+20% img
+
+<img src="/img/dolphin.png" width="100" height="100">
+
+100px img
 
 .
 
