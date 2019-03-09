@@ -122,7 +122,7 @@ link img
 <center><img src="/img/dolphin.png" width="100" height="100">100px img</center>
 
 
-<div style="text-align:center"><<img src="/img/dolphin.png" width="100" height="100"></div>
+<div style="text-align:center"><img src="/img/dolphin.png" width="100" height="100"></div>
 
 
 
