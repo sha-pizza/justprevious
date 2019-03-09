@@ -112,4 +112,4 @@ link without url
 [바로가기](https://help.github.com/categories/writing-on-github/)
 
 link img
-![Alt text](/path/to/img.jpg)
+![Alt text](/justprivious/dolphin.jpg)
