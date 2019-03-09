@@ -106,10 +106,13 @@ This is ~deleted~
 --------------------------------------- 
 
 link with url
+
 <https://help.github.com/categories/writing-on-github/>
 
 link without url
+
 [바로가기](https://help.github.com/categories/writing-on-github/)
 
 link img
+
 ![dolphin!](/justprivious/dolphin.png)
