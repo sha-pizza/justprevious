@@ -1,5 +1,4 @@
-# justprivious !
-
+justprevious 
 repositary - for privous works & practice
 
 .
