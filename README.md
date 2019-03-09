@@ -2,11 +2,11 @@
 
 repositary - for privous works & practice
 
+.
 
+.
 
-
-
-
+.
 
 → how to use markdown?
 
@@ -30,23 +30,36 @@ This is **important**
 This is ***tilt***
 This is ~deleted~
 
+.
 
+.
 
-
+.
 
 → This is normal paragraph
 <pre><code>THIS IS CODE PARAGRAPH !!</code></pre>
 
-some horizon lines below ↓
+.
+
+.
+
+.
+
+→ some horizon lines below ↓
 * * *
 ***
 *****
 - - -
 ---------------------------------------
+
 .
+
 .
+
 .
-.
-.
-how about links →
-<http://example.com/>
+
+→ how about links?
+link with url
+<https://help.github.com/categories/writing-on-github/>
+link without url
+[바로가기](https://help.github.com/categories/writing-on-github/)
