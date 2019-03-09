@@ -115,4 +115,4 @@ link without url
 
 link img
 
-![dolphin!](./basic.jpg)
+![dolphin!](/dolphin.png)
