@@ -1,11 +1,7 @@
 # justprivious
 
 repositary - for privous works & practice
-0;
-0
-0
-0
-0
+
 → how to use markdown?
 
 This is HEADER
