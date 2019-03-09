@@ -1,11 +1,11 @@
 # justprivious
 
 repositary - for privous works & practice
-.
-.
-.
-.
-.
+0
+0
+0
+0
+0
 → how to use markdown?
 
 This is HEADER
@@ -23,11 +23,11 @@ This is small-HEADER
 > This is a blockqute1
 >> This is a blockqute2
 >>> This is a blockqute3
-.
-.
-.
-.
-.
+
+
+
+
+
 → This is normal paragraph
 <pre><code>THIS IS CODE PARAGRAPH !!</code></pre>
 
